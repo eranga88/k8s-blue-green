@@ -1,2 +1,6 @@
-# k8s-blue-green
-Blue Green deployment
+# Architecture
+
+![alt text](./images/Capture.JPG)
+
+`System Architecture`
+
